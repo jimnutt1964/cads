@@ -23,7 +23,7 @@ if ($vardebug) {echo "db file included<br>";}
 <link rel=stylesheet type=text/css media="handheld, only screen and (max-device-width: 640px)" href="mobile-27-default.css">
 <script src='codecache/27/cache.js'></script>
 
-<link href='http://www.classifiedads.com/search.rss?keywords=&amp;rid=7906' type='application/rss+xml' rel='alternate' title='ClassifiedAds.com RSS Feed'>
+<link href='' type='application/rss+xml' rel='alternate' title='ClassifiedAds.com RSS Feed'>
 
 <!-- Start of AnswerDash script -->
 <script>var AnswerDash;!function(e,t,n,s,a){if(!t.getElementById(s)){var i,r=t.createElement(n),c=t.getElementsByTagName(n)[0];e[a]||(i=e[a]=function(){i.__oninit.push(arguments)},i.__oninit=[]),r.type="text/javascript",r.async=!0,r.src="//p1.answerdash.com/answerdash.min.js?siteid=263",r.setAttribute("id",s),c.parentNode.insertBefore(r,c)}}(window,document,"script","answerdash-script","AnswerDash");</script>

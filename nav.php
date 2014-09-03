@@ -99,7 +99,7 @@
    </div>
   </form>
 
- <a class=rss href="http://www.classifiedads.com/search.rss?keywords=&amp;rid=7906"><div>RSS</div><div style="width:16px;height:16px;margin-left:4px;overflow:hidden;"><img src="images/sprites2.gif" alt="RSS" title="RSS"></div></a>
+ <a class=rss href=""><div>RSS</div><div style="width:16px;height:16px;margin-left:4px;overflow:hidden;"><img src="images/sprites2.gif" alt="RSS" title="RSS"></div></a>
  <a  class=mobloc href="http://www.classifiedads.com/earth-r0.html" onclick='showlocbox(1);return false' style="display:none;">Change Location</a>
  <span class=local1>Classifieds in Seattle: Eastside - Bellevue</span>
 </div>
@@ -111,9 +111,9 @@
    <div style="color:#293653;padding:0;margin:0 0 15px 0;">
     <div class=close2u style="margin-top:5px;">Your Location:</div>
     <div class=close2u style="font-weight:normal;margin:5px 0 0 2px;">Seattle: Eastside - Bellevue, WA</div>
-    <div class=close2u><a  href="http://www.classifiedads.com/earth-r0.html" onclick='showlocbox(1);return false'>Change Location</a></div>
+    <div class=close2u><a  href="" onclick='showlocbox(1);return false'>Change Location</a></div>
    </div>
-   <div style="color:#293653;padding:0;"><div class=close2u>Nearby Areas:<a href='http://www.classifiedads.com/seattle-rs8008.html'>Seattle</a><a href='http://www.classifiedads.com/kent-rs2032.html'>Seattle: Kent - Renton</a><a href='http://www.classifiedads.com/bremerton-rs2033.html'>Seattle: Bremerton</a><a href='http://www.classifiedads.com/everett-rs7936.html'>Seattle: Everett</a><a href='http://www.classifiedads.com/tacoma-rs8023.html'>Tacoma</a></div></div>
+   <div style="color:#293653;padding:0;"><div class=close2u>Nearby Areas:<a href=''>Seattle</a><a href=''>Seattle: Kent - Renton</a><a href=''>Seattle: Bremerton</a><a href=''>Seattle: Everett</a><a href=''>Tacoma</a></div></div>
 
   </div>
  </div>

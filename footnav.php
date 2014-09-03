@@ -47,7 +47,7 @@
  </form>
  -->
 
- <div id=footlocs><a href='http://www.classifiedads.com/olympia-rs7985.html'>Olympia</a> <a href='http://www.classifiedads.com/victoria-rs3615.html'>Victoria</a> <a href='http://www.classifiedads.com/bellingham-rs7907.html'>Bellingham</a> <a href='http://www.classifiedads.com/wenatchee-rs8036.html'>Wenatchee</a> <a href='http://www.classifiedads.com/yakima-rs8042.html'>Yakima</a> <a href='http://www.classifiedads.com/vancouver-rs3613.html'>Vancouver</a> <a href='http://www.classifiedads.com/vancouver_wa-rs2021.html'>Vancouver</a> <a href='http://www.classifiedads.com/portland-rs7089.html'>Portland</a> <a href='http://www.classifiedads.com/kennewick-rs2035.html'>Kennewick - Pasco - Richland</a> <a href='http://www.classifiedads.com/coos_bay-rs7052.html'>Oregon Coast</a><br><a href='http://www.classifiedads.com/washington-rs185.html'>Washington</a> <a href='http://www.classifiedads.com/united_states-rs137.html'>United States</a> <a href='http://www.classifiedads.com/british_columbia-rs3571.html'>British Columbia</a> <a href='http://www.classifiedads.com/canada-rs135.html'>Canada</a> <a href='http://www.classifiedads.com/oregon-rs175.html'>Oregon</a></div>
+ <div id=footlocs><a href=''>Olympia</a> <a href=''>Victoria</a> <a href=''>Bellingham</a> <a href=''>Wenatchee</a> <a href=''>Yakima</a> <a href=''>Vancouver</a> <a href=''>Vancouver</a> <a href=''>Portland</a> <a href=''>Kennewick - Pasco - Richland</a> <a href=''>Oregon Coast</a><br><a href=''>Washington</a> <a href=''>United States</a> <a href=''>British Columbia</a> <a href=''>Canada</a> <a href=''>Oregon</a></div>
 
 </div>
 
