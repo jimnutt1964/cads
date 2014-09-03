@@ -27,8 +27,19 @@ if ($vardebug) {echo "db file included<br>";}
 
 <!-- Start of AnswerDash script -->
 <script>var AnswerDash;!function(e,t,n,s,a){if(!t.getElementById(s)){var i,r=t.createElement(n),c=t.getElementsByTagName(n)[0];e[a]||(i=e[a]=function(){i.__oninit.push(arguments)},i.__oninit=[]),r.type="text/javascript",r.async=!0,r.src="//p1.answerdash.com/answerdash.min.js?siteid=263",r.setAttribute("id",s),c.parentNode.insertBefore(r,c)}}(window,document,"script","answerdash-script","AnswerDash");</script>
-<!-- End of AnswerDash script -->
+<!-- End of AnswerDash script -->i
+<!-- start of google analytics script -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
+  ga('create', 'UA-54451300-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- end of google analytics script -->
 </head>
 
 
