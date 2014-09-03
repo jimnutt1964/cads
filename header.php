@@ -22,18 +22,12 @@ if ($vardebug) {echo "db file included<br>";}
 <link rel="alternate stylesheet" type=text/css media=screen title=mobile href="mobile-27-default.css">
 <link rel=stylesheet type=text/css media="handheld, only screen and (max-device-width: 640px)" href="mobile-27-default.css">
 <script src='codecache/27/cache.js'></script>
-<script>var _sf_startpt=(new Date()).getTime()</script>
 
-<meta property='fb:admins' content='100001239390718, 117308178299032, 558270595'>
-<meta property='fb:page_id' content='132015806821470'>
-<meta property='fb:app_id' content='127981713908520'>
 <link href='http://www.classifiedads.com/search.rss?keywords=&amp;rid=7906' type='application/rss+xml' rel='alternate' title='ClassifiedAds.com RSS Feed'>
-<script>
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-22868591-1']);
-_gaq.push(['_trackPageview']);
-(function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
-</script>
+
+<!-- Start of AnswerDash script -->
+<script>var AnswerDash;!function(e,t,n,s,a){if(!t.getElementById(s)){var i,r=t.createElement(n),c=t.getElementsByTagName(n)[0];e[a]||(i=e[a]=function(){i.__oninit.push(arguments)},i.__oninit=[]),r.type="text/javascript",r.async=!0,r.src="//p1.answerdash.com/answerdash.min.js?siteid=263",r.setAttribute("id",s),c.parentNode.insertBefore(r,c)}}(window,document,"script","answerdash-script","AnswerDash");</script>
+<!-- End of AnswerDash script -->
 
 </head>
 
